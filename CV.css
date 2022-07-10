@@ -1,0 +1,36 @@
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: brown;
+}
+
+.destacados{
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+}
+
+.marcos{
+    border: 7px blueviolet solid;
+}
+
+.especial{
+    border-style: groove;
+    border-color: brown;
+    border-radius: 10px;
+}
+
+ul{
+    background-color: yellow;
+    list-style-type: circle;
+}
+
+ol{
+    background-color: yellow;
+}
+
+h3{
+    border-style: groove;
+    border-color: green;
+    border-radius: 20px;
+}
